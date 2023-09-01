@@ -1,4 +1,11 @@
 chanchito feliz
 Chanchito feliz
 Cambio en main sin que hayamos megeado
+<<<<<<< HEAD
 Cambio en local
+=======
+Cambio login4
+ajlsdkjals
+
+lasdfla
+>>>>>>> dec7c5d0ae3d9b2b3e4e50bcb76b07fa56011f17
